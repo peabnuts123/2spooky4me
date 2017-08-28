@@ -1,0 +1,11 @@
+{
+  "name": "2spooky4me",
+  "version": "0.1.1",
+  "description": "All in good time, my skeleton friend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peabnuts123",
+  "license": "UNLICENSED"
+}
